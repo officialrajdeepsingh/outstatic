@@ -1,12 +1,12 @@
 {
-  "commit": "b6f8c3b1359c2a2aaf077fd35184667691a3ab75",
-  "generated": "Thu, 18 Jan 2024 16:30:24 GMT",
+  "commit": "3d57d63210893b2e3eb2c5f9b6177b9d6a5719f2",
+  "generated": "Thu, 18 Jan 2024 16:32:39 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "1a4ef84e1468e81bfdc08549dc80c2c0cb1e5e8c",
-        "hash": "3218713448",
-        "path": "/outstatic/content/docs/environment-variables.md"
+        "commit": "6ad7188262b31a3d42c6542574adfe1cda0a6bbb",
+        "hash": "3433676299",
+        "path": "/outstatic/content/docs/faqs.md"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -15,10 +15,10 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2022-10-26T12:36:25.000Z",
-      "slug": "environment-variables",
+      "publishedAt": "2023-11-20T13:07:51.000Z",
+      "slug": "faqs",
       "status": "published",
-      "title": "Environment Variables"
+      "title": "FAQs"
     },
     {
       "__outstatic": {
@@ -40,9 +40,9 @@
     },
     {
       "__outstatic": {
-        "commit": "6ad7188262b31a3d42c6542574adfe1cda0a6bbb",
-        "hash": "3433676299",
-        "path": "/outstatic/content/docs/faqs.md"
+        "commit": "1a4ef84e1468e81bfdc08549dc80c2c0cb1e5e8c",
+        "hash": "3218713448",
+        "path": "/outstatic/content/docs/environment-variables.md"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -51,46 +51,10 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2023-11-20T13:07:51.000Z",
-      "slug": "faqs",
+      "publishedAt": "2022-10-26T12:36:25.000Z",
+      "slug": "environment-variables",
       "status": "published",
-      "title": "FAQs"
-    },
-    {
-      "__outstatic": {
-        "commit": "3bbf1f134c75554e5c13021122ec22f45cc34718",
-        "hash": "4022666034",
-        "path": "/outstatic/content/docs/introduction.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-05-26T17:50:55.000Z",
-      "slug": "introduction",
-      "status": "published",
-      "title": "Introduction"
-    },
-    {
-      "__outstatic": {
-        "commit": "5b338ea37847338e26cf47e2c2c6fd85105b3d0a",
-        "hash": "191850098",
-        "path": "/outstatic/content/docs/local-development.md"
-      },
-      "author": {
-        "name": "leplay",
-        "picture": "https://avatars.githubusercontent.com/u/284475?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-25T09:42:29.000Z",
-      "slug": "local-development",
-      "status": "published",
-      "title": "Local Development"
+      "title": "Environment Variables"
     },
     {
       "__outstatic": {
@@ -112,21 +76,21 @@
     },
     {
       "__outstatic": {
-        "commit": "22650aab8e1fa8241dd7756b1bf90fd79342969d",
-        "hash": "3223339599",
-        "path": "/outstatic/content/docs/fetching-data.md"
+        "commit": "3bbf1f134c75554e5c13021122ec22f45cc34718",
+        "hash": "4022666034",
+        "path": "/outstatic/content/docs/introduction.md"
       },
       "author": {
-        "name": "Jakob Heuser",
-        "picture": "https://avatars.githubusercontent.com/u/1795?v=4"
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2023-07-25T12:28:25.000Z",
-      "slug": "fetching-data",
+      "publishedAt": "2023-05-26T17:50:55.000Z",
+      "slug": "introduction",
       "status": "published",
-      "title": "Fetching data"
+      "title": "Introduction"
     },
     {
       "__outstatic": {
@@ -148,6 +112,42 @@
     },
     {
       "__outstatic": {
+        "commit": "5b338ea37847338e26cf47e2c2c6fd85105b3d0a",
+        "hash": "191850098",
+        "path": "/outstatic/content/docs/local-development.md"
+      },
+      "author": {
+        "name": "leplay",
+        "picture": "https://avatars.githubusercontent.com/u/284475?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-25T09:42:29.000Z",
+      "slug": "local-development",
+      "status": "published",
+      "title": "Local Development"
+    },
+    {
+      "__outstatic": {
+        "commit": "22650aab8e1fa8241dd7756b1bf90fd79342969d",
+        "hash": "3223339599",
+        "path": "/outstatic/content/docs/fetching-data.md"
+      },
+      "author": {
+        "name": "Jakob Heuser",
+        "picture": "https://avatars.githubusercontent.com/u/1795?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-07-25T12:28:25.000Z",
+      "slug": "fetching-data",
+      "status": "published",
+      "title": "Fetching data"
+    },
+    {
+      "__outstatic": {
         "commit": "a36a42a309ed2ca9176c49ce0302bf005243b928",
         "hash": "3142407191",
         "path": "/outstatic/content/posts/how-to-create-a-blog-with-outstatic.md"
@@ -162,24 +162,6 @@
       "slug": "how-to-create-a-blog-with-outstatic",
       "status": "published",
       "title": "Learn how to create your blog with Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "3b66e8b89719d0eb49127fe0e3fe5321a9ff3a47",
-        "hash": "3579180601",
-        "path": "/outstatic/content/menus/docs-menu.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "menus",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-20T15:18:37.000Z",
-      "slug": "docs-menu",
-      "status": "published",
-      "title": "Docs Menu"
     },
     {
       "__outstatic": {
@@ -201,21 +183,21 @@
     },
     {
       "__outstatic": {
-        "commit": "236b30a2eaa4e5335fbd02615160b41871a15bb6",
-        "hash": "85927068",
-        "path": "/outstatic/content/docs/migrating-to-v1.md"
+        "commit": "3b66e8b89719d0eb49127fe0e3fe5321a9ff3a47",
+        "hash": "3579180601",
+        "path": "/outstatic/content/menus/docs-menu.md"
       },
       "author": {
         "name": "Andre Vitorio",
         "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
-      "collection": "docs",
+      "collection": "menus",
       "coverImage": "",
-      "description": "Migrating Outstatic to >v1.0.0",
-      "publishedAt": "2023-11-11T18:59:51.912Z",
-      "slug": "migrating-to-v1",
+      "description": "",
+      "publishedAt": "2023-11-20T15:18:37.000Z",
+      "slug": "docs-menu",
       "status": "published",
-      "title": "Migrating to v1"
+      "title": "Docs Menu"
     },
     {
       "__outstatic": {
@@ -234,6 +216,24 @@
       "slug": "the-content-editor",
       "status": "published",
       "title": "The content editor"
+    },
+    {
+      "__outstatic": {
+        "commit": "236b30a2eaa4e5335fbd02615160b41871a15bb6",
+        "hash": "85927068",
+        "path": "/outstatic/content/docs/migrating-to-v1.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "Migrating Outstatic to >v1.0.0",
+      "publishedAt": "2023-11-11T18:59:51.912Z",
+      "slug": "migrating-to-v1",
+      "status": "published",
+      "title": "Migrating to v1"
     }
   ]
 }
