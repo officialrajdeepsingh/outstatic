@@ -1,6 +1,6 @@
 {
-  "commit": "320cb687ee58bd0613119a6d6ac6cf6b122caf45",
-  "generated": "2024-01-18T16:34:02.305Z",
+  "commit": "768be72d27d5e9112881e891c55696e4cfd1f186",
+  "generated": "2024-01-18T16:52:31.116Z",
   "metadata": [
     {
       "__outstatic": {
@@ -148,23 +148,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a36a42a309ed2ca9176c49ce0302bf005243b928",
-        "hash": "3142407191",
-        "path": "/outstatic/content/posts/how-to-create-a-blog-with-outstatic.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/outstatic-demo.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-a-blog-with-outstatic",
-      "status": "published",
-      "title": "Learn how to create your blog with Outstatic"
-    },
-    {
-      "__outstatic": {
         "commit": "3b59a623e7ddd9391763b6050f52a4b11b686dda",
         "hash": "3670638841",
         "path": "/outstatic/content/docs/using-with-next-js-12.md"
@@ -252,6 +235,23 @@
       "slug": "demo-posts",
       "status": "draft",
       "title": "Demo Posts"
+    },
+    {
+      "__outstatic": {
+        "commit": "768be72d27d5e9112881e891c55696e4cfd1f186",
+        "hash": "3726030256",
+        "path": "outstatic/content/posts/how-to-create-a-blog-with-outstatic.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/outstatic-demo.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-07-14T02:34:02.322Z",
+      "slug": "how-to-create-a-blog-with-outstatic",
+      "status": "published",
+      "title": "Learn how to create your blog with Outstatic"
     }
   ]
 }
