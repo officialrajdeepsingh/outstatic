@@ -1,6 +1,6 @@
 {
-  "commit": "768be72d27d5e9112881e891c55696e4cfd1f186",
-  "generated": "2024-01-18T16:52:31.116Z",
+  "commit": "8af5200a9f797daeefe57c87f59c78702115920c",
+  "generated": "2024-01-18T17:16:14.143Z",
   "metadata": [
     {
       "__outstatic": {
@@ -252,6 +252,25 @@
       "slug": "how-to-create-a-blog-with-outstatic",
       "status": "published",
       "title": "Learn how to create your blog with Outstatic"
+    },
+    {
+      "__outstatic": {
+        "commit": "8af5200a9f797daeefe57c87f59c78702115920c",
+        "hash": "3652268164",
+        "path": "outstatic/content/posts/try-to-publish.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "lastmodfiy": "2024-01-18T17:16:14.144Z",
+      "publishedAt": "2024-01-18T17:48:58.697Z",
+      "slug": "try-to-publish",
+      "status": "draft",
+      "title": "try to publish"
     }
   ]
 }
