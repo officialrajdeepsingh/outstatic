@@ -1,6 +1,6 @@
 {
-  "commit": "3d57d63210893b2e3eb2c5f9b6177b9d6a5719f2",
-  "generated": "Thu, 18 Jan 2024 16:32:39 GMT",
+  "commit": "320cb687ee58bd0613119a6d6ac6cf6b122caf45",
+  "generated": "2024-01-18T16:34:02.305Z",
   "metadata": [
     {
       "__outstatic": {
@@ -234,6 +234,24 @@
       "slug": "migrating-to-v1",
       "status": "published",
       "title": "Migrating to v1"
+    },
+    {
+      "__outstatic": {
+        "commit": "320cb687ee58bd0613119a6d6ac6cf6b122caf45",
+        "hash": "32147573",
+        "path": "outstatic/content/posts/demo-posts.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-01-18T17:05:49.086Z",
+      "slug": "demo-posts",
+      "status": "draft",
+      "title": "Demo Posts"
     }
   ]
 }
